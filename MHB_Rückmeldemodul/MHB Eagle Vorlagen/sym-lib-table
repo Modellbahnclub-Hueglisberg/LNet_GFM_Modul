@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "MHB Eagle Vorlagen-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/MHB Eagle Vorlagen-eagle-import.kicad_sym")(options "")(descr ""))
+)
